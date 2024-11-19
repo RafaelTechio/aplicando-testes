@@ -85,6 +85,8 @@ Teste:
 
 # SpecFlow, GitHub Actions e Azure DevOps…
 
+SpecFlow é uma ferramenta de automação de testes que implementa o padrão Behavior-Driven Development (BDD) no ecossistema .NET, permitindo a escrita de cenários de teste em linguagem natural. Essa abordagem facilita a definição e entendimento por todas as partes envolvidas no desenvolvimento, melhorando a aplicação de conceitos do DDD como a linguagem obliqua. Além disso, há a possibilidade de integração com Azure Devops e pipelines de CI/CD, o que o torna uma ferramenta poderosa em um ambiente maduro.
+
 Listagem de User Stories:
 
 ![image](https://github.com/user-attachments/assets/1637574c-30a6-45d1-9649-4e5e9f52f05f)
