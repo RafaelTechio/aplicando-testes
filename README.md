@@ -54,3 +54,32 @@ Execução:
 ![image](https://github.com/user-attachments/assets/cde84079-155f-42a6-8468-5a541c9cfde4)
 
 
+# Mock
+
+O Mocking é uma técnica de teste que pode ser utilizado para realizar testes de integração, onde o componente testado possui uma relação de dependência de outros componentes. Dessa forma, o resultado desse outro componente pode ser simulado para isolar o comportamento a ser testado
+
+## NSubstitute
+
+Código:
+
+![image](https://github.com/user-attachments/assets/ccf8b9e5-cd7e-4b90-a8ae-4032021f9ed0)
+
+Teste:
+
+![image](https://github.com/user-attachments/assets/c81f1e3f-8b42-4a74-a707-74313a57787d)
+
+Execução:
+
+![image](https://github.com/user-attachments/assets/e3f48ad7-bf6f-49e4-8e03-dcb91d11eb72)
+
+
+## Moq
+
+Código:
+
+![image](https://github.com/user-attachments/assets/aa70cbce-5f45-42f9-859a-b7fe137f9a66)
+
+Teste:
+
+![image](https://github.com/user-attachments/assets/76683ccc-82c0-429a-b8d7-b54896452482)
+
