@@ -5,6 +5,10 @@ Rafael Mateus Zimmer Techio
 
 Para a ponderada, os três repositórios de exemplo do tutorial foram instalados localmente, sendo eles
 
+# Testes de Unidade
+
+Testes de unidade são a menor parte dos testes e servem para testar funções puras ou compartimentos de regras de negócio. Podem ser implementados em dotnet através de diversas libs. Os testes de unidade podem ser utilizados para garantir que as regras de negócio codificadas em uma aplicação estão funcionando corretamente.
+
 ## MS Test
 
 Código:
