@@ -83,3 +83,13 @@ Teste:
 
 ![image](https://github.com/user-attachments/assets/76683ccc-82c0-429a-b8d7-b54896452482)
 
+# SpecFlow, GitHub Actions e Azure DevOps…
+
+Listagem de User Stories:
+
+![image](https://github.com/user-attachments/assets/1637574c-30a6-45d1-9649-4e5e9f52f05f)
+
+Step Definition:
+
+![image](https://github.com/user-attachments/assets/9787190d-2f0d-454a-a13a-9a4d7b102d19)
+
